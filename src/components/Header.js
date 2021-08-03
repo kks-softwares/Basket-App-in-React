@@ -6,7 +6,7 @@ export default function Header(props) {
       <div className="Head-title">
       <i class="fas fa-shopping-basket" style={{fontSize:'600%'}}></i>
         <a href="#/" style={{color:'black'}}>
-          <h1>Hello Basket Cart</h1>
+          <h1>Hello, Basket Cart</h1>
         </a>
       </div>
       <div>
